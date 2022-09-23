@@ -256,29 +256,13 @@ span:nth-child(1) {
     margin-top: 15px;
 }
 
-.facebook {
-    color: #3b5998;
-}
-
-.twitter {
-    color: #1DA1F2;
-}
-
-.instagram {
-    color: #cd486b;
-}
-
 .linkedin {
     color: #0077B5;
 }
-
 .github {
     color: #333333;
 }
 
-.medium {
-    color: #333333;
-}
 
 .email {
     color: #909497;
